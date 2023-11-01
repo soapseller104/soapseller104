@@ -2,7 +2,6 @@
 
 I am Vlad, 18 y.o computer science enthusiast from Russia.
 
-- 🔭 I’m currently working on SQL educational project.
 - 🌱 I’m currently learnin SQL.
 - 👯 I’m looking to collaborate with any IT company as junior software developer.
 - 🎧 Favorite artists: NF, BONES, suicide boys, scarlxrd, suburban, Sadfriendd, Sxmpra, Radical Face, The Pretty Reckless, Chernigovskaya Hata, LudoWic, Ben Prunty, Brian Tyler, Iamjakehill, XXXTentacion, Die Antwood
